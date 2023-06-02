@@ -1,0 +1,17 @@
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\bin\Debug\Database1.mdf
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\bin\Debug\Database1_log.ldf
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\bin\Debug\Basic database.exe.config
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\bin\Debug\Basic database.exe
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\bin\Debug\Basic database.pdb
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic database.csproj.AssemblyReference.cache
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic database.csproj.SuggestedBindingRedirects.cache
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic_database.Form1.resources
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic_database.Properties.Resources.resources
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic database.csproj.GenerateResource.cache
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic database.csproj.CoreCompileInputs.cache
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic database.exe
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic database.pdb
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic_database.AddStudent.resources
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic_database.Landing.resources
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic_database.Editstudent.resources
+E:\MY FILES\PROJECTS\VisualStudio\basic database\Basic database\obj\Debug\Basic_database.remove_student.resources
